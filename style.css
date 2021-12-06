@@ -296,7 +296,6 @@ a{
 	width: 280px;
 	position: relative;
 	overflow: hidden;
-	border-radius: 10px;
 }
 .team .content{
 	transition: all .5s;
@@ -309,7 +308,6 @@ a{
 	top: 0;
 	width: 100%;
 	height: 100%;
-
 }
 .team .content h1{
 	font-family: 'Montserrat', sans-serif;
